@@ -7,7 +7,7 @@
 * https://atom.io/ - extensible editor
   * TODO: Atom plugins list
 * https://github.com/jupyterlab/jupyterlab - IPython and more on steroids
-
+* https://github.com/tonsky/FiraCode - mono-spaced font with ligatures 
 
 ## Resources
 
