@@ -20,6 +20,8 @@
 # sudo kextload /Applications/InsomniaX.app/Contents/Resources/Insomnia_r11.kext
 /Applications/InsomniaX.app/Contents/Resources/Insomnia_r11.kext failed to load - (libkern/kext) system policy prevents loading; check the system/kernel logs for errors or try kextutil(8).
 ```
+* https://github.com/google/santa - A binary whitelisting/blacklisting system for Mac OS X
+  * Simple lockdown configuration https://gist.github.com/0xmjk/cb9ca44135dc2307f39711ae3d4b42db
 ## Resources
 
 * https://publicsuffix.org/ - DNS effective domains list
