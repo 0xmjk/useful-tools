@@ -9,6 +9,9 @@
 * https://github.com/jupyterlab/jupyterlab - IPython and more on steroids
 * https://github.com/tonsky/FiraCode - mono-spaced font with ligatures 
 
+### MacOS tools
+* https://itunes.apple.com/gb/app/systempal/id453164367?mt=12 - SystemPal (shows CPU, network uses, etc. on the menu bar)
+
 ## Resources
 
 * https://publicsuffix.org/ - DNS effective domains list
