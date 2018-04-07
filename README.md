@@ -23,4 +23,5 @@
 ### macOS specific resources
 
 * https://github.com/drduh/macOS-Security-and-Privacy-Guide - security and privacy guide for macOS
+* http://docs.hardentheworld.org/OS/MacOS_10.12_Sierra/ - guide to hardening macOS Sierra
 
