@@ -15,7 +15,11 @@
 * https://iterm2.com/ - replacement of Terminal
 * https://rowanj.github.io/gitx/ Git history viewer with branch trees (Note: After install, run from Applications and choose from GitX menu "Enable Terminal Usage" to create symlink to /usr/local/bin/gitx)
 * https://brew.sh/ - Homebrew is an OSS package manager 
-
+* http://semaja2.net/ye-ol-projects/insomniaxinfo/ - InsomniaX prevents Mac Book Pro from sleeping - doesn't fully work on High Sierra apparently though:
+```
+# sudo kextload /Applications/InsomniaX.app/Contents/Resources/Insomnia_r11.kext
+/Applications/InsomniaX.app/Contents/Resources/Insomnia_r11.kext failed to load - (libkern/kext) system policy prevents loading; check the system/kernel logs for errors or try kextutil(8).
+```
 ## Resources
 
 * https://publicsuffix.org/ - DNS effective domains list
