@@ -8,6 +8,7 @@
   * TODO: Atom plugins list
 * https://github.com/jupyterlab/jupyterlab - IPython and more on steroids
 * https://github.com/tonsky/FiraCode - mono-spaced font with ligatures 
+* https://justgetflux.com/ - shifts the colour of the screen to warmer tones after sunset (still more configurable than Night Shift)
 
 ### macOS specific tools
 * https://itunes.apple.com/gb/app/systempal/id453164367?mt=12 - SystemPal shows CPU, network uses, etc. on the menu bar
